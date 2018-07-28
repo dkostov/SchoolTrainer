@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">School Trainer</string>
+    <string name="exercises">Exercises</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_browse_exercises">Exercises</string>
+    <string name="start">Start</string>
+    <string name="division">Division</string>
+    <string name="division_description">Practice your division of multi-digit numbers. All questions are guaranteed to have an integer result without remainders.</string>
+    <string name="OK">OK</string>
+    <string name="hint">Hint</string>
+    <string name="cancel">Cancel</string>
+    <string name="response">Enter your response here</string>
+</resources>
